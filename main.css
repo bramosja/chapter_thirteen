@@ -1,0 +1,22 @@
+div {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;      
+}
+
+input {
+    margin: 15px;
+}
+
+.container {
+    width: 200px;
+    height: 50px;
+}
+
+#article--class1 {
+    border: 2px solid darkolivegreen;
+}
+
+#article--class2 {
+    border: 2px solid darkgoldenrod;
+}
